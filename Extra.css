@@ -1,0 +1,22 @@
+main{
+    background-color:#f8e9f1;
+}
+.container{
+    flex-direction: column;
+    
+    background: #E7E7E7;
+}
+.cont2{
+    display: flex;
+    background: #E7E7E7;
+    gap: 5px;
+    border: grey;
+}
+.cont3{
+    display: flex;
+    background: #E7E7E7;
+}
+.cont4{
+    display: flex;
+    background: #E7E7E7;
+}
